@@ -1623,6 +1623,14 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding: 8px 60px;
   }
 }
+.play{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: crimson;
+}
+input{
+  width: 50px;
+}
 
 @media (max-width: 768px) {
   .back-to-top {
