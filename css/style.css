@@ -1669,8 +1669,7 @@ input{
     background-color: black;
 }
 .img-logo {
-    width: 300px;
-    height: 100px;
+    width: 100%;
 }
 .title-logo {
     color: white;
@@ -1683,11 +1682,24 @@ input{
     font-weight: 600;
     text-transform: uppercase;
     font-family: inherit;
-    font-size: 51px;
+    font-size: 30px;
 }
 .buscar-torneo {
-    color: #0e1b4d;
-    font-size: x-large;
-    font-weight: 700;
+    color: #27774b;
+    font-size: inherit;
+    font-weight: 900;
     text-transform: uppercase;
+    font-family: sans-serif;
+}
+.center {
+    text-align: center;
+    padding-top: 1.4em;
+    padding-bottom: 1.4em;
+}
+.center-fix {
+    text-align: center;
+}
+.app{
+  border-style: solid;
+
 }
